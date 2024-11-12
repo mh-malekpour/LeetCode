@@ -22,4 +22,4 @@ Each solution is stored in the problems directory, with each problem organized i
 
 To run a solution, navigate to the problem's directory and run the appropriate command for the language:
 
-- Python: `python main.py`
+- Python: `python3 main.py`
