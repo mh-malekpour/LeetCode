@@ -13,14 +13,13 @@ They may not be the most optimized or comprehensive solutions for every problem.
 
 ## Repository Structure
 
-Each solution is stored in its respective directory, named after the LeetCode problem number and title.
-For example:
+Each solution is stored in the problems directory, with each problem organized into its own folder, named after the LeetCode problem number and title. For example:
 
-- `1/`
+- `problems/1_Two_Sum/`
+- `problems/2_Add_Two_Numbers/`
 
 ## How to Use
 
 To run a solution, navigate to the problem's directory and run the appropriate command for the language:
 
 - Python: `python main.py`
-- Go: `go run main.go`
