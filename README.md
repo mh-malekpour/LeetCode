@@ -15,8 +15,8 @@ They may not be the most optimized or comprehensive solutions for every problem.
 
 Each solution is stored in the problems directory, with each problem organized into its own folder, named after the LeetCode problem number and title. For example:
 
-- `problems/1_Two_Sum/`
-- `problems/2_Add_Two_Numbers/`
+- `problems/0001_two_sum/`
+- `problems/0002_add_two_numbers/`
 
 ## How to Use
 
